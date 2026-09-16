@@ -16,7 +16,7 @@ const fmt = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
     start: ((text.match(/СТАРТ\s*·\s*ОТ\s*([\d ]+?)\s*₸/i) || [])[1] || '').replace(/\s/g, ''),
   };
   const state = JSON.parse(fs.readFileSync('site-state.json', 'utf8'));
-  const files = ['README.md', 'assets/header.svg', 'assets/header-light.svg', 'assets/acc-certs-main.svg'];
+  const files = ['README.md'];
   const rules = {
     years: (o, n) => [[`опыт: ${o} лет в рекламе`, `опыт: ${n} лет в рекламе`], [`${o} лет в рекламе`, `${n} лет в рекламе`]],
     certs: (o, n) => [[`сертификатов Anthropic: ${o}`, `сертификатов Anthropic: ${n}`], [`${o} · Anthropic`, `${n} · Anthropic`], [`${o} сертификат Anthropic`, `${n} сертификат Anthropic`], [encodeURIComponent(`${o} сертификат Anthropic`), encodeURIComponent(`${n} сертификат Anthropic`)]],
