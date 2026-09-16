@@ -1,6 +1,10 @@
 <div align="center">
 
-<a href="https://biz-com.kz"><img src="assets/header.svg" width="100%" alt="Владимир Бидарев — таргетолог и performance-маркетолог. 17 лет в рекламе, аудит бесплатно, отчёт каждые 7 дней."/></a>
+<a href="https://biz-com.kz"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"/>
+  <img src="assets/header.svg" width="100%" alt="Владимир Бидарев — таргетолог и performance-маркетолог. 17 лет в рекламе, аудит бесплатно, отчёт каждые 7 дней."/>
+</picture></a>
 
 <a href="https://wa.me/77012669947"><img src="assets/btn-whatsapp.svg" alt="WhatsApp"/></a>
 <a href="https://t.me/barononlinekz"><img src="assets/btn-telegram.svg" alt="Telegram"/></a>
@@ -61,6 +65,31 @@
 
 <br/>
 
+<img src="assets/sec-poll.svg" width="100%" alt="Опрос"/>
+
+<!-- POLL:START -->
+**Какая площадка вам нужна?** Нажмите вариант → «Submit new issue». Голосов: 0
+
+| Вариант | | Голоса |
+|---|---|---|
+| [`▶ Meta · Instagram / Facebook`](https://github.com/BARONonlinekz/BARONonlinekz/issues/new?title=vote%3A+meta&body=%D0%9D%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%C2%ABSubmit%20new%20issue%C2%BB%20%E2%80%94%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BF%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%2C%20Issue%20%D0%B7%D0%B0%D0%BA%D1%80%D0%BE%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC.) | `░░░░░░░░░░` | 0 · 0% |
+| [`▶ TikTok`](https://github.com/BARONonlinekz/BARONonlinekz/issues/new?title=vote%3A+tiktok&body=%D0%9D%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%C2%ABSubmit%20new%20issue%C2%BB%20%E2%80%94%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BF%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%2C%20Issue%20%D0%B7%D0%B0%D0%BA%D1%80%D0%BE%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC.) | `░░░░░░░░░░` | 0 · 0% |
+| [`▶ Google Ads`](https://github.com/BARONonlinekz/BARONonlinekz/issues/new?title=vote%3A+google&body=%D0%9D%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%C2%ABSubmit%20new%20issue%C2%BB%20%E2%80%94%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BF%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%2C%20Issue%20%D0%B7%D0%B0%D0%BA%D1%80%D0%BE%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC.) | `░░░░░░░░░░` | 0 · 0% |
+| [`▶ LinkedIn B2B`](https://github.com/BARONonlinekz/BARONonlinekz/issues/new?title=vote%3A+linkedin&body=%D0%9D%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%C2%ABSubmit%20new%20issue%C2%BB%20%E2%80%94%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BF%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%2C%20Issue%20%D0%B7%D0%B0%D0%BA%D1%80%D0%BE%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC.) | `░░░░░░░░░░` | 0 · 0% |
+| [`▶ WhatsApp API`](https://github.com/BARONonlinekz/BARONonlinekz/issues/new?title=vote%3A+whatsapp&body=%D0%9D%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%C2%ABSubmit%20new%20issue%C2%BB%20%E2%80%94%20%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%20%D0%BF%D0%BE%D1%81%D1%87%D0%B8%D1%82%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%2C%20Issue%20%D0%B7%D0%B0%D0%BA%D1%80%D0%BE%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC.) | `░░░░░░░░░░` | 0 · 0% |
+<!-- POLL:END -->
+
+<br/>
+
+<img src="assets/sec-video.svg" width="100%" alt="Последние видео"/>
+
+<!-- VIDEO-LIST:START -->
+<!-- VIDEO-LIST:END -->
+
+<a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/btn-youtube.svg" alt="YouTube"/></a>
+
+<br/>
+
 <img src="assets/sec-projects.svg" width="100%" alt="Проекты"/>
 
 <details>
@@ -103,6 +132,16 @@
 <img src="assets/sec-stack.svg" width="100%" alt="Инструменты"/>
 
 <img src="assets/stack.svg" width="100%" alt="Meta Ads, TikTok Ads, Google Ads, LinkedIn Ads, Looker Studio, Google Analytics, Claude, MCP, API, Supabase, Vercel, GitHub, WhatsApp Cloud API, Telegram, Figma, Canva"/>
+
+<br/>
+
+<img src="assets/sec-activity.svg" width="100%" alt="Активность"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BARONonlinekz/BARONonlinekz/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BARONonlinekz/BARONonlinekz/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/BARONonlinekz/BARONonlinekz/output/snake-dark.svg" width="100%" alt="Змейка ест график вкладов"/>
+</picture>
 
 <br/>
 
