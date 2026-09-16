@@ -83,8 +83,7 @@
 
 <img src="assets/sec-video.svg" width="100%" alt="Последние видео"/>
 
-<!-- VIDEO-LIST:START -->
-<!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><a href="https://www.youtube.com/watch?v=eNwsSFeyO6g"><img width="30%" src="https://img.youtube.com/vi/eNwsSFeyO6g/mqdefault.jpg" alt="Одна из концовок со Стрелком ►  S.T.A.L.K.E.R. 2: Heart of Chernobyl ► #stalker2"/></a><a href="https://www.youtube.com/watch?v=zGNRFDYixMg"><img width="30%" src="https://img.youtube.com/vi/zGNRFDYixMg/mqdefault.jpg" alt="Одна из концовок со Скифом ►  S.T.A.L.K.E.R. 2: Heart of Chernobyl ► #stalker2"/></a><a href="https://www.youtube.com/watch?v=k_3r7SEGMqs"><img width="30%" src="https://img.youtube.com/vi/k_3r7SEGMqs/mqdefault.jpg" alt="Наша любая игра ► CS2"/></a><!-- VIDEO-LIST:END -->
 
 <a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/btn-youtube.svg" alt="YouTube"/></a>
 
