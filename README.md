@@ -155,6 +155,7 @@
 <img src="assets/row-tiktok.svg" alt="TikTok:"/> <a href="https://www.tiktok.com/@barononlinekz"><img src="assets/acc-tt-main.svg" alt="@barononlinekz"/></a><br/>
 <img src="assets/row-youtube.svg" alt="YouTube:"/> <a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/acc-yt-main.svg" alt="@BARONonlinekz"/></a><br/>
 <img src="assets/row-linkedin.svg" alt="LinkedIn:"/> <a href="https://www.linkedin.com/in/barononlinekz"><img src="assets/acc-li-main.svg" alt="barononlinekz"/></a><br/>
+<img src="assets/row-x.svg" alt="X:"/> <a href="https://x.com/BARONonlinekz"><img src="assets/acc-x-main.svg" alt="@BARONonlinekz"/></a><br/>
 <img src="assets/row-hh.svg" alt="Резюме:"/> <a href="https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b"><img src="assets/acc-hh-main.svg" alt="hh.kz"/></a><br/>
 <img src="assets/row-certs.svg" alt="Сертификаты:"/> <a href="https://biz-com.kz/certificates/"><img src="assets/acc-certs-main.svg" alt="21 сертификат Anthropic"/></a><br/>
 
