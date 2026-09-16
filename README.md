@@ -1,137 +1,126 @@
-### `~/barononlinekz` — визитка
+<div align="center">
 
-```diff
-$ whoami --status
-# Владимир Бидарев · таргетолог и performance-маркетолог
-+ опыт .......... 17 лет в рекламе
-+ площадки ...... Meta · TikTok · Google · LinkedIn · WhatsApp API
-+ сертификаты ... 21 Anthropic
-+ аудит ......... бесплатно
-+ отчёт ......... каждые 7 дней: потрачено · заявки · цена заявки
-+ где ........... Алматы · весь Казахстан онлайн
-! ждут вашей заявки: 1
-```
+<a href="https://biz-com.kz"><img src="assets/header.svg" width="100%" alt="Владимир Бидарев — таргетолог и performance-маркетолог. 17 лет в рекламе, аудит бесплатно, отчёт каждые 7 дней."/></a>
 
-**`$ contact`** → [`● WhatsApp`](https://wa.me/77012669947) · [`● Telegram`](https://t.me/barononlinekz) · [`↗ biz-com.kz`](https://biz-com.kz) · [`in LinkedIn`](https://www.linkedin.com/in/barononlinekz)
+<a href="https://wa.me/77012669947"><img src="assets/btn-whatsapp.svg" alt="WhatsApp"/></a>
+<a href="https://t.me/barononlinekz"><img src="assets/btn-telegram.svg" alt="Telegram"/></a>
+<a href="https://biz-com.kz"><img src="assets/btn-site.svg" alt="Сайт biz-com.kz"/></a>
+<a href="https://www.linkedin.com/in/barononlinekz"><img src="assets/btn-linkedin.svg" alt="LinkedIn"/></a>
 
----
+</div>
 
-### `$ services --list` · услуги и цены
+<br/>
+
+<img src="assets/sec-services.svg" width="100%" alt="Услуги и цены"/>
 
 <details>
-<summary><code>ШАГ 01</code> <b>Аудит</b> → <code>бесплатно</code></summary>
+<summary><b>ШАГ 01 · Аудит</b> — <code>бесплатно</code></summary>
 
-```diff
-+ смотрю кабинет или нишу
-+ честно говорю, что не так и есть ли смысл в рекламе вообще
-```
+- ✅ Смотрю кабинет или нишу
+- ✅ Честно говорю, что не так и есть ли смысл в рекламе вообще
+
 </details>
 
 <details>
-<summary><code>ШАГ 02</code> <b>Старт</b> → <code>от 60 000 ₸ разово</code></summary>
+<summary><b>ШАГ 02 · Старт</b> — <code>от 60 000 ₸ разово</code></summary>
 
-```diff
-+ кабинет, пиксель, аудитории
-+ 3–5 объявлений, запуск, первая оптимизация
-# одна площадка
-```
+- ✅ Кабинет, пиксель, аудитории
+- ✅ 3–5 объявлений, запуск, первая оптимизация
+- ✅ Одна площадка
+
 </details>
 
 <details>
-<summary><code>ШАГ 03</code> <b>Ведение</b> → <code>50 000 – 100 000 ₸/мес</code></summary>
+<summary><b>ШАГ 03 · Ведение</b> — <code>50 000 – 100 000 ₸/мес</code></summary>
 
-```diff
-+ одна площадка ........................ 50 000 ₸/мес
-+ полный набор ......................... 100 000 ₸/мес
-# сквозная аналитика, ИИ-отчёты, свежие креативы каждую неделю
-```
+- ✅ Одна площадка — 50 000 ₸
+- ✅ Полный набор — 100 000 ₸: сквозная аналитика, ИИ-отчёты, свежие креативы каждую неделю
+
 </details>
 
 <details>
-<summary><code>ШАГ 04</code> <b>LinkedIn B2B</b> → <code>от 150 000 ₸/мес</code></summary>
+<summary><b>ШАГ 04 · LinkedIn B2B</b> — <code>от 150 000 ₸/мес</code></summary>
 
-```diff
-+ таргетинг по должностям и компаниям
-+ лид-формы в CRM, путь до сделки с цифрами
-```
+- ✅ Таргетинг по должностям и компаниям
+- ✅ Лид-формы в CRM, путь до сделки с цифрами
+
 </details>
 
 <details>
-<summary><code>ШАГ 05</code> <b>WhatsApp Business API</b> → <code>по запросу</code></summary>
+<summary><b>ШАГ 05 · WhatsApp Business API</b> — <code>по запросу</code></summary>
 
-```diff
-+ подключение и настройка
-```
+- ✅ Подключение и настройка
+
 </details>
 
-```diff
-! кабинет ваш — бюджет платите напрямую площадкам со своей карты
-```
+> **Кабинет ваш**, рекламный бюджет платите напрямую площадкам со своей карты. Отчёт каждые 7 дней: потрачено · заявки · цена заявки. Условия — в [оферте](https://biz-com.kz/oferta/).
 
-**`$ start`** → [`▶ написать в WhatsApp`](https://wa.me/77012669947) · [`§ оферта`](https://biz-com.kz/oferta/)
+<div align="center">
+<a href="https://wa.me/77012669947"><img src="assets/btn-write.svg" alt="Написать в WhatsApp"/></a>
+</div>
 
----
+<br/>
 
-### `$ projects` · что уже построено
+<img src="assets/sec-projects.svg" width="100%" alt="Проекты"/>
 
 <details>
-<summary><code>01</code> <b>Конструктор сайтов</b> — страница из блоков, бесплатно и без входа</summary>
+<summary><b>Конструктор сайтов</b> — соберите страницу из блоков, бесплатно и без входа</summary>
 
-```diff
-+ собираете страницу из готовых блоков и сразу видите стоимость
-+ понравится — оставляете заявку, дальше собираю готовый сайт
-```
-[`↗ sites.biz-com.kz`](https://sites.biz-com.kz)
+Страница собирается из готовых блоков, сразу видно стоимость. Понравится — оставляете заявку, дальше собираю и отдаю готовый сайт.
+
+<a href="https://sites.biz-com.kz"><img src="assets/btn-sites.svg" alt="sites.biz-com.kz"/></a>
+
 </details>
 
 <details>
-<summary><code>02</code> <b>AMOS</b> — экосистема для рекламы</summary>
+<summary><b>AMOS</b> — экосистема для рекламы</summary>
 
-```diff
-+ десктоп-приложение в Microsoft Store
-```
-[`↗ ads.biz-com.kz`](https://ads.biz-com.kz)
+Десктоп-приложение в Microsoft Store.
+
+<a href="https://ads.biz-com.kz"><img src="assets/btn-amos.svg" alt="ads.biz-com.kz"/></a>
+
 </details>
 
 <details>
-<summary><code>03</code> <b>AMOS CRM и контент-студия</b> — внутренние инструменты</summary>
+<summary><b>AMOS CRM и контент-студия</b> — внутренние инструменты</summary>
 
-```diff
-+ своя CRM для заявок и клиентов
-+ автоматизация производства контента
-# закрыто, только для работы
-```
+- ✅ Своя CRM для заявок и клиентов
+- ✅ Автоматизация производства контента
+
 </details>
 
 <details>
-<summary><code>04</code> <b>biz-com.kz</b> — мой сайт</summary>
+<summary><b>biz-com.kz</b> — мой сайт</summary>
 
-```diff
-+ дизайн, код и SEO в связке «я + ИИ»
-```
-[`↗ biz-com.kz`](https://biz-com.kz)
+Дизайн, код и SEO в связке «я + ИИ».
+
+<a href="https://biz-com.kz"><img src="assets/btn-site.svg" alt="biz-com.kz"/></a>
+
 </details>
 
----
+<br/>
 
-### `$ stack` · инструменты
+<img src="assets/sec-stack.svg" width="100%" alt="Инструменты"/>
 
-```yaml
-реклама:    [Meta Ads, TikTok Ads, Google Ads, LinkedIn Ads]
-аналитика:  [Looker Studio, Google Analytics, сквозная до LTV]
-ии_и_код:   [Claude, MCP, API, Supabase, Vercel, GitHub]
-связь:      [WhatsApp Cloud API, Telegram]
-дизайн:     [Figma, Canva]
-```
+<img src="assets/stack.svg" width="100%" alt="Meta Ads, TikTok Ads, Google Ads, LinkedIn Ads, Looker Studio, Google Analytics, Claude, MCP, API, Supabase, Vercel, GitHub, WhatsApp Cloud API, Telegram, Figma, Canva"/>
 
----
+<br/>
 
-### `$ links` · резюме и соцсети
+<img src="assets/sec-links.svg" width="100%" alt="Резюме и соцсети"/>
 
-**`резюме`** → [`↓ резюме.pdf`](https://biz-com.kz/files/resume-vladimir.pdf) · [`↗ hh.kz`](https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b) · [`✓ 21 сертификат Anthropic`](https://biz-com.kz/certificates/)
+<div align="center">
 
-**`соцсети`** → [`◎ Instagram`](https://instagram.com/barononlinekz) · [`◎ bizcomkz`](https://instagram.com/bizcomkz) · [`f Facebook`](https://www.facebook.com/BARONonlinekz) · [`f bizcomkz`](https://www.facebook.com/bizcomkz) · [`♪ TikTok`](https://www.tiktok.com/@barononlinekz) · [`▶ YouTube`](https://www.youtube.com/@BARONonlinekz)
+<a href="https://biz-com.kz/files/resume-vladimir.pdf"><img src="assets/btn-resume.svg" alt="Резюме PDF"/></a>
+<a href="https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b"><img src="assets/btn-hh.svg" alt="Резюме на hh.kz"/></a>
+<a href="https://biz-com.kz/certificates/"><img src="assets/btn-certs.svg" alt="21 сертификат Anthropic"/></a>
 
-```diff
-# © Владимир Бидарев · BARONonlinekz · biz-com.kz
-```
+<a href="https://instagram.com/barononlinekz"><img src="assets/btn-instagram.svg" alt="Instagram"/></a>
+<a href="https://instagram.com/bizcomkz"><img src="assets/btn-instagram-biz.svg" alt="Instagram bizcomkz"/></a>
+<a href="https://www.facebook.com/BARONonlinekz"><img src="assets/btn-facebook.svg" alt="Facebook"/></a>
+<a href="https://www.facebook.com/bizcomkz"><img src="assets/btn-facebook-biz.svg" alt="Facebook bizcomkz"/></a>
+<a href="https://www.tiktok.com/@barononlinekz"><img src="assets/btn-tiktok.svg" alt="TikTok"/></a>
+<a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/btn-youtube.svg" alt="YouTube"/></a>
+
+<sub>© Владимир Бидарев · BARONonlinekz · biz-com.kz</sub>
+
+</div>
