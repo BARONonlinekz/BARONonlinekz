@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" font-family="'JetBrains Mono','Cascadia Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace">
+<rect x=".5" y=".5" width="1199" height="223" rx="9" fill="#0E1620" stroke="#2B4055"/>
+<text x="22" y="30" font-size="13"><tspan fill="#5FE06A">$ </tspan><tspan fill="#C7D6E4">stack --list</tspan></text>
+<text x="22" y="66" font-size="11" letter-spacing="1.5" fill="#54677A">РЕКЛАМА</text>
+<rect x="190" y="50" width="82.8" height="23" rx="4" fill="#16301C"/>
+<text x="201" y="66" font-size="12" fill="#5FE06A">Meta Ads</text>
+<rect x="280.8" y="50" width="98.0" height="23" rx="4" fill="#16301C"/>
+<text x="291.8" y="66" font-size="12" fill="#5FE06A">TikTok Ads</text>
+<rect x="386.8" y="50" width="98.0" height="23" rx="4" fill="#16301C"/>
+<text x="397.8" y="66" font-size="12" fill="#5FE06A">Google Ads</text>
+<rect x="492.8" y="50" width="113.19999999999999" height="23" rx="4" fill="#16301C"/>
+<text x="503.8" y="66" font-size="12" fill="#5FE06A">LinkedIn Ads</text>
+<text x="22" y="100" font-size="11" letter-spacing="1.5" fill="#54677A">АНАЛИТИКА</text>
+<rect x="190" y="84" width="120.8" height="23" rx="4" fill="#16301C"/>
+<text x="201" y="100" font-size="12" fill="#5FE06A">Looker Studio</text>
+<rect x="318.8" y="84" width="143.6" height="23" rx="4" fill="#16301C"/>
+<text x="329.8" y="100" font-size="12" fill="#5FE06A">Google Analytics</text>
+<rect x="470.4" y="84" width="136.0" height="23" rx="4" fill="#16301C"/>
+<text x="481.4" y="100" font-size="12" fill="#5FE06A">сквозная до LTV</text>
+<text x="22" y="134" font-size="11" letter-spacing="1.5" fill="#54677A">ИИ И КОД</text>
+<rect x="190" y="118" width="67.6" height="23" rx="4" fill="#16301C"/>
+<text x="201" y="134" font-size="12" fill="#5FE06A">Claude</text>
+<rect x="265.6" y="118" width="44.8" height="23" rx="4" fill="#16301C"/>
+<text x="276.6" y="134" font-size="12" fill="#5FE06A">MCP</text>
+<rect x="318.40000000000003" y="118" width="44.8" height="23" rx="4" fill="#16301C"/>
+<text x="329.40000000000003" y="134" font-size="12" fill="#5FE06A">API</text>
+<rect x="371.20000000000005" y="118" width="82.8" height="23" rx="4" fill="#16301C"/>
+<text x="382.20000000000005" y="134" font-size="12" fill="#5FE06A">Supabase</text>
+<rect x="462.00000000000006" y="118" width="67.6" height="23" rx="4" fill="#16301C"/>
+<text x="473.00000000000006" y="134" font-size="12" fill="#5FE06A">Vercel</text>
+<rect x="537.6" y="118" width="67.6" height="23" rx="4" fill="#16301C"/>
+<text x="548.6" y="134" font-size="12" fill="#5FE06A">GitHub</text>
+<text x="22" y="168" font-size="11" letter-spacing="1.5" fill="#54677A">СВЯЗЬ</text>
+<rect x="190" y="152" width="158.79999999999998" height="23" rx="4" fill="#16301C"/>
+<text x="201" y="168" font-size="12" fill="#5FE06A">WhatsApp Cloud API</text>
+<rect x="356.79999999999995" y="152" width="82.8" height="23" rx="4" fill="#16301C"/>
+<text x="367.79999999999995" y="168" font-size="12" fill="#5FE06A">Telegram</text>
+<text x="22" y="202" font-size="11" letter-spacing="1.5" fill="#54677A">ДИЗАЙН</text>
+<rect x="190" y="186" width="60.0" height="23" rx="4" fill="#16301C"/>
+<text x="201" y="202" font-size="12" fill="#5FE06A">Figma</text>
+<rect x="258.0" y="186" width="60.0" height="23" rx="4" fill="#16301C"/>
+<text x="269.0" y="202" font-size="12" fill="#5FE06A">Canva</text>
+</svg>
