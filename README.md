@@ -146,18 +146,21 @@
 
 <img src="assets/sec-links.svg" width="100%" alt="Резюме и соцсети"/>
 
+<div>
+
+<img src="assets/row-whatsapp.svg" alt="WhatsApp:"/> <a href="https://wa.me/77012669947"><img src="assets/acc-wa-main.svg" alt="+7 701 266 99 47"/></a><br/>
+<img src="assets/row-telegram.svg" alt="Telegram:"/> <a href="https://t.me/barononlinekz"><img src="assets/acc-tg-main.svg" alt="@barononlinekz"/></a><br/>
+<img src="assets/row-instagram.svg" alt="Instagram:"/> <a href="https://instagram.com/barononlinekz"><img src="assets/acc-ig-main.svg" alt="@barononlinekz"/></a> <a href="https://instagram.com/bizcomkz"><img src="assets/acc-ig-biz.svg" alt="@bizcomkz"/></a><br/>
+<img src="assets/row-facebook.svg" alt="Facebook:"/> <a href="https://www.facebook.com/BARONonlinekz"><img src="assets/acc-fb-main.svg" alt="BARONonlinekz"/></a> <a href="https://www.facebook.com/bizcomkz"><img src="assets/acc-fb-biz.svg" alt="bizcomkz"/></a><br/>
+<img src="assets/row-tiktok.svg" alt="TikTok:"/> <a href="https://www.tiktok.com/@barononlinekz"><img src="assets/acc-tt-main.svg" alt="@barononlinekz"/></a><br/>
+<img src="assets/row-youtube.svg" alt="YouTube:"/> <a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/acc-yt-main.svg" alt="@BARONonlinekz"/></a><br/>
+<img src="assets/row-linkedin.svg" alt="LinkedIn:"/> <a href="https://www.linkedin.com/in/barononlinekz"><img src="assets/acc-li-main.svg" alt="barononlinekz"/></a><br/>
+<img src="assets/row-hh.svg" alt="Резюме:"/> <a href="https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b"><img src="assets/acc-hh-main.svg" alt="hh.kz"/></a><br/>
+<img src="assets/row-certs.svg" alt="Сертификаты:"/> <a href="https://biz-com.kz/certificates/"><img src="assets/acc-certs-main.svg" alt="21 сертификат Anthropic"/></a><br/>
+
+</div>
+
 <div align="center">
-
-<a href="https://biz-com.kz/files/resume-vladimir.pdf"><img src="assets/btn-resume.svg" alt="Резюме PDF"/></a>
-<a href="https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b"><img src="assets/btn-hh.svg" alt="Резюме на hh.kz"/></a>
-<a href="https://biz-com.kz/certificates/"><img src="assets/btn-certs.svg" alt="21 сертификат Anthropic"/></a>
-
-<a href="https://instagram.com/barononlinekz"><img src="assets/btn-instagram.svg" alt="Instagram"/></a>
-<a href="https://instagram.com/bizcomkz"><img src="assets/btn-instagram-biz.svg" alt="Instagram bizcomkz"/></a>
-<a href="https://www.facebook.com/BARONonlinekz"><img src="assets/btn-facebook.svg" alt="Facebook"/></a>
-<a href="https://www.facebook.com/bizcomkz"><img src="assets/btn-facebook-biz.svg" alt="Facebook bizcomkz"/></a>
-<a href="https://www.tiktok.com/@barononlinekz"><img src="assets/btn-tiktok.svg" alt="TikTok"/></a>
-<a href="https://www.youtube.com/@BARONonlinekz"><img src="assets/btn-youtube.svg" alt="YouTube"/></a>
 
 <sub>© Владимир Бидарев · BARONonlinekz · biz-com.kz</sub>
 
