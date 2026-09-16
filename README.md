@@ -1,112 +1,137 @@
-<div align="center">
+### `~/barononlinekz` — визитка
 
-# Владимир Бидарев — BARONonlinekz 👋
+```diff
+$ whoami --status
+# Владимир Бидарев · таргетолог и performance-маркетолог
++ опыт .......... 17 лет в рекламе
++ площадки ...... Meta · TikTok · Google · LinkedIn · WhatsApp API
++ сертификаты ... 21 Anthropic
++ аудит ......... бесплатно
++ отчёт ......... каждые 7 дней: потрачено · заявки · цена заявки
++ где ........... Алматы · весь Казахстан онлайн
+! ждут вашей заявки: 1
+```
 
-**Таргетолог и performance-маркетолог · реклама · аналитика · ИИ**
-
-17 лет в рекламе. Настраиваю рекламу на шести площадках, строю сквозную аналитику и подключаю ИИ там, где он экономит деньги.
-Каждую неделю вы видите три числа: **потрачено · заявки · цена заявки**.
-
-Алматы · весь Казахстан онлайн · [biz-com.kz](https://biz-com.kz)
-
-  <a href="https://wa.me/77012669947"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://t.me/barononlinekz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://biz-com.kz"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82%20biz--com.kz-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт biz-com.kz"/></a>
-  <a href="https://www.linkedin.com/in/barononlinekz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-</div>
+**`$ contact`** → [`● WhatsApp`](https://wa.me/77012669947) · [`● Telegram`](https://t.me/barononlinekz) · [`↗ biz-com.kz`](https://biz-com.kz) · [`in LinkedIn`](https://www.linkedin.com/in/barononlinekz)
 
 ---
 
-## 🚀 Услуги и цены
+### `$ services --list` · услуги и цены
 
-| Пакет | Что входит | Цена |
-|---|---|---|
-| **Аудит** | Смотрю кабинет или нишу, честно говорю, что не так и есть ли смысл в рекламе | **бесплатно** |
-| **Старт** | Кабинет, пиксель, аудитории, 3–5 объявлений, запуск, первая оптимизация — 1 площадка | **от 60 000 ₸** разово |
-| **Ведение** | Одна площадка — 50 000 ₸; полный набор со сквозной аналитикой, ИИ-отчётами и свежими креативами каждую неделю — 100 000 ₸ | **50 000 – 100 000 ₸/мес** |
-| **LinkedIn B2B** | Таргетинг по должностям и компаниям, лид-формы в CRM, путь до сделки с цифрами | **от 150 000 ₸/мес** |
-| **WhatsApp Business API** | Подключение и настройка | по запросу |
+<details>
+<summary><code>ШАГ 01</code> <b>Аудит</b> → <code>бесплатно</code></summary>
 
-Кабинет ваш, рекламный бюджет платите напрямую площадкам со своей карты. Отчёт каждые 7 дней. Условия — в [оферте](https://biz-com.kz/oferta/).
+```diff
++ смотрю кабинет или нишу
++ честно говорю, что не так и есть ли смысл в рекламе вообще
+```
+</details>
 
-<div align="center">
+<details>
+<summary><code>ШАГ 02</code> <b>Старт</b> → <code>от 60 000 ₸ разово</code></summary>
 
-<a href="https://wa.me/77012669947"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Написать в WhatsApp"/></a>
+```diff
++ кабинет, пиксель, аудитории
++ 3–5 объявлений, запуск, первая оптимизация
+# одна площадка
+```
+</details>
 
-</div>
+<details>
+<summary><code>ШАГ 03</code> <b>Ведение</b> → <code>50 000 – 100 000 ₸/мес</code></summary>
 
----
+```diff
++ одна площадка ........................ 50 000 ₸/мес
++ полный набор ......................... 100 000 ₸/мес
+# сквозная аналитика, ИИ-отчёты, свежие креативы каждую неделю
+```
+</details>
 
-## 🛠 Проекты
+<details>
+<summary><code>ШАГ 04</code> <b>LinkedIn B2B</b> → <code>от 150 000 ₸/мес</code></summary>
 
-| Проект | Что это |
-|---|---|
-| [**Конструктор сайтов**](https://sites.biz-com.kz) | Соберите свою страницу из готовых блоков — бесплатно и без входа, сразу видно стоимость |
-| [**AMOS**](https://ads.biz-com.kz) | Экосистема для рекламы — десктоп-приложение в Microsoft Store |
-| **AMOS CRM** | Собственная CRM для заявок и клиентов (внутренний инструмент) |
-| **Контент-студия** | Автоматизация производства контента (внутренний инструмент) |
-| [**biz-com.kz**](https://biz-com.kz) | Мой сайт — дизайн, код и SEO в связке «я + ИИ» |
+```diff
++ таргетинг по должностям и компаниям
++ лид-формы в CRM, путь до сделки с цифрами
+```
+</details>
 
----
+<details>
+<summary><code>ШАГ 05</code> <b>WhatsApp Business API</b> → <code>по запросу</code></summary>
 
-## 📈 Реклама и аналитика
+```diff
++ подключение и настройка
+```
+</details>
 
-<div align="center">
+```diff
+! кабинет ваш — бюджет платите напрямую площадкам со своей карты
+```
 
-  <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
-  <img src="https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Ads"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
-  <img src="https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ads"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
-
-</div>
-
-## 🤖 ИИ, автоматизация и техстек
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
-  <img src="https://img.shields.io/badge/MCP-222222?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-
-</div>
+**`$ start`** → [`▶ написать в WhatsApp`](https://wa.me/77012669947) · [`§ оферта`](https://biz-com.kz/oferta/)
 
 ---
 
-## 📄 Резюме и сертификаты
+### `$ projects` · что уже построено
 
-<div align="center">
+<details>
+<summary><code>01</code> <b>Конструктор сайтов</b> — страница из блоков, бесплатно и без входа</summary>
 
-  <a href="https://biz-com.kz/files/resume-vladimir.pdf"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Резюме PDF"/></a>
-  <a href="https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%BD%D0%B0%20hh.kz-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="Резюме на hh.kz"/></a>
-  <a href="https://biz-com.kz/certificates/"><img src="https://img.shields.io/badge/21%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="21 сертификат Anthropic"/></a>
+```diff
++ собираете страницу из готовых блоков и сразу видите стоимость
++ понравится — оставляете заявку, дальше собираю готовый сайт
+```
+[`↗ sites.biz-com.kz`](https://sites.biz-com.kz)
+</details>
 
-</div>
+<details>
+<summary><code>02</code> <b>AMOS</b> — экосистема для рекламы</summary>
 
-## 🌐 Соцсети
+```diff
++ десктоп-приложение в Microsoft Store
+```
+[`↗ ads.biz-com.kz`](https://ads.biz-com.kz)
+</details>
 
-<div align="center">
+<details>
+<summary><code>03</code> <b>AMOS CRM и контент-студия</b> — внутренние инструменты</summary>
 
-  <a href="https://instagram.com/barononlinekz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://instagram.com/bizcomkz"><img src="https://img.shields.io/badge/Instagram%20bizcomkz-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram bizcomkz"/></a>
-  <a href="https://www.facebook.com/BARONonlinekz"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.facebook.com/bizcomkz"><img src="https://img.shields.io/badge/Facebook%20bizcomkz-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook bizcomkz"/></a>
-  <a href="https://www.tiktok.com/@barononlinekz"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.youtube.com/@BARONonlinekz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+```diff
++ своя CRM для заявок и клиентов
++ автоматизация производства контента
+# закрыто, только для работы
+```
+</details>
 
-</div>
+<details>
+<summary><code>04</code> <b>biz-com.kz</b> — мой сайт</summary>
+
+```diff
++ дизайн, код и SEO в связке «я + ИИ»
+```
+[`↗ biz-com.kz`](https://biz-com.kz)
+</details>
 
 ---
 
-<div align="center">
+### `$ stack` · инструменты
 
-<sub>© Владимир Бидарев · BARONonlinekz · biz-com.kz</sub>
+```yaml
+реклама:    [Meta Ads, TikTok Ads, Google Ads, LinkedIn Ads]
+аналитика:  [Looker Studio, Google Analytics, сквозная до LTV]
+ии_и_код:   [Claude, MCP, API, Supabase, Vercel, GitHub]
+связь:      [WhatsApp Cloud API, Telegram]
+дизайн:     [Figma, Canva]
+```
 
-</div>
+---
+
+### `$ links` · резюме и соцсети
+
+**`резюме`** → [`↓ резюме.pdf`](https://biz-com.kz/files/resume-vladimir.pdf) · [`↗ hh.kz`](https://hh.kz/resume/2579fda1ff0827b5a30039ed1f356a69516a4b) · [`✓ 21 сертификат Anthropic`](https://biz-com.kz/certificates/)
+
+**`соцсети`** → [`◎ Instagram`](https://instagram.com/barononlinekz) · [`◎ bizcomkz`](https://instagram.com/bizcomkz) · [`f Facebook`](https://www.facebook.com/BARONonlinekz) · [`f bizcomkz`](https://www.facebook.com/bizcomkz) · [`♪ TikTok`](https://www.tiktok.com/@barononlinekz) · [`▶ YouTube`](https://www.youtube.com/@BARONonlinekz)
+
+```diff
+# © Владимир Бидарев · BARONonlinekz · biz-com.kz
+```
