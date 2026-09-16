@@ -1,0 +1,38 @@
+name: Опрос в профиле
+# Голос = новый Issue с заголовком «vote: <вариант>». Скрипт считает голос,
+# обновляет README и закрывает Issue.
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: poll
+  cancel-in-progress: false
+jobs:
+  vote:
+    if: startsWith(github.event.issue.title, 'vote:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Посчитать голос
+        id: count
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: node .github/scripts/poll.js
+      - name: Сохранить
+        if: steps.count.outputs.changed == 'true'
+        run: |
+          git config user.name "barononlinekz-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md poll.json
+          git commit -m "Профиль: голос в опросе"
+          git push
+      - name: Ответить и закрыть
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUM: ${{ github.event.issue.number }}
+          MSG: ${{ steps.count.outputs.message }}
+        run: gh issue close "$NUM" --repo "$GITHUB_REPOSITORY" --comment "$MSG"
