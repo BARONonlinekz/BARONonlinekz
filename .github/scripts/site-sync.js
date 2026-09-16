@@ -19,7 +19,7 @@ const fmt = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
   const files = ['README.md', 'assets/header.svg', 'assets/header-light.svg', 'assets/acc-certs-main.svg'];
   const rules = {
     years: (o, n) => [[`опыт: ${o} лет в рекламе`, `опыт: ${n} лет в рекламе`], [`${o} лет в рекламе`, `${n} лет в рекламе`]],
-    certs: (o, n) => [[`сертификатов Anthropic: ${o}`, `сертификатов Anthropic: ${n}`], [`${o} · Anthropic`, `${n} · Anthropic`], [`${o} сертификат Anthropic`, `${n} сертификат Anthropic`]],
+    certs: (o, n) => [[`сертификатов Anthropic: ${o}`, `сертификатов Anthropic: ${n}`], [`${o} · Anthropic`, `${n} · Anthropic`], [`${o} сертификат Anthropic`, `${n} сертификат Anthropic`], [encodeURIComponent(`${o} сертификат Anthropic`), encodeURIComponent(`${n} сертификат Anthropic`)]],
     start: (o, n) => [[`от ${fmt(o)} ₸`, `от ${fmt(n)} ₸`]],
   };
 
